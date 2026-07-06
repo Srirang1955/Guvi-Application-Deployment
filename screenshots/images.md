@@ -70,3 +70,7 @@ Create an Amazon EKS cluster with **2 worker nodes** to deploy the application.
 <img width="1455" alt="ECR and EKS Cluster" src="https://github.com/user-attachments/assets/643454c3-e0f5-4cbe-8ea6-1dc8aa3bddf5" />
 
 ---
+
+# step 8: create deployment and service YAML files
+
+<img width="714" alt="deployment and serivce files" src="https://github.com/user-attachments/assets/017cadb0-b687-44f3-8251-63a5218caba1" />
