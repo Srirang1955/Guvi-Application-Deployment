@@ -14,3 +14,7 @@ IAM user login
 
 <img width="1908" height="427" alt="image" src="https://github.com/user-attachments/assets/726513aa-24eb-47d9-9786-ac5227d39268" />
 
+Creating a EKS cluster and Nodes
+<img width="1394" height="683" alt="image" src="https://github.com/user-attachments/assets/b07e0c5c-8564-4a3e-a691-ebeea6295db9" />
+
+<img width="1398" height="597" alt="image" src="https://github.com/user-attachments/assets/fb8c0ca7-887b-45c4-a857-45bd2f811d74" />
