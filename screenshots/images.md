@@ -71,6 +71,11 @@ Create an Amazon EKS cluster with **2 worker nodes** to deploy the application.
 
 ---
 
-# step 8: create deployment and service YAML files
+# Step 8: create deployment and service YAML files
 
 <img width="714" alt="deployment and serivce files" src="https://github.com/user-attachments/assets/017cadb0-b687-44f3-8251-63a5218caba1" />
+
+# Step 9: create a buildspec.yml file
+
+<img width="1373" alt="buildspec yml file" src="https://github.com/user-attachments/assets/1838f4e0-dd94-4ee6-87a7-b1b52dae0f89" />
+
