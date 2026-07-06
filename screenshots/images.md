@@ -79,3 +79,7 @@ Create an Amazon EKS cluster with **2 worker nodes** to deploy the application.
 
 <img width="1373" alt="buildspec yml file" src="https://github.com/user-attachments/assets/1838f4e0-dd94-4ee6-87a7-b1b52dae0f89" />
 
+# step 10: Pushing the folder to git 
+
+<img width="1037" alt="Pushing to git" src="https://github.com/user-attachments/assets/d9e12a2c-3c54-4146-8d0e-eb8cd5cb243a" />
+
