@@ -1,6 +1,3 @@
-I agree. The previous README is technically correct, but it reads like documentation. For a project submission or GitHub portfolio, you want it to sound like **you are explaining what you built, why you chose each AWS service, and how everything works together**. It should also show that you understand the implementation, not just the commands.
-
-Below is a more detailed version that matches your writing style.
 
 ---
 
