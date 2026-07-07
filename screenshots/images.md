@@ -83,3 +83,37 @@ Create an Amazon EKS cluster with **2 worker nodes** to deploy the application.
 
 <img width="1037" alt="Pushing to git" src="https://github.com/user-attachments/assets/d9e12a2c-3c54-4146-8d0e-eb8cd5cb243a" />
 
+---
+
+# step 9: Building the Image in code pipeline and pushing to ECR
+
+<img width="1909" alt="image" src="https://github.com/user-attachments/assets/0741de29-0e64-4b30-8f0d-f30ce905f6cb" />
+
+
+<img width="1294" alt="image" src="https://github.com/user-attachments/assets/c6c7b691-ce33-41f6-86d6-f3496f510dce" />
+
+
+<img width="1401" alt="image" src="https://github.com/user-attachments/assets/14fb43d7-2508-4864-8672-814d689e3b89" />
+
+
+<img width="1707" alt="image" src="https://github.com/user-attachments/assets/297cbb12-a505-4bdf-bd23-fec2c245b4b9" />
+
+
+<img width="1916" alt="image" src="https://github.com/user-attachments/assets/e88d7035-c857-4786-814e-2eb67d46cf90" />
+
+
+<img width="1906" alt="image" src="https://github.com/user-attachments/assets/a333ca4d-cadf-4b83-b304-a76174abec39" />
+
+
+<img width="1907" alt="image" src="https://github.com/user-attachments/assets/9343d449-f43c-4c28-babf-1f57ef105bb9" />
+
+
+<img width="1912" alt="image" src="https://github.com/user-attachments/assets/c0abfd34-4ab3-43ab-8f20-61440b5715f8" />
+
+
+<img width="1909" alt="image" src="https://github.com/user-attachments/assets/6ae36ef1-5dbe-414d-aef7-b5749b10e188" />
+
+
+
+
+
