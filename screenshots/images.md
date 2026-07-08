@@ -123,5 +123,6 @@ Create an Amazon EKS cluster with **2 worker nodes** to deploy the application.
 <img width="735" alt="image" src="https://github.com/user-attachments/assets/7090ed23-f351-4417-b5ee-e76a8bfe0a70" />
 
 
+<img width="1206" alt="image" src="https://github.com/user-attachments/assets/14a34868-3fbd-4f66-bb5e-f1b2ea746552" />
 
 
